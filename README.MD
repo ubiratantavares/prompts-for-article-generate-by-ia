@@ -28,7 +28,7 @@ Lexica.art：
 - Conteúdo gerado via ChatGPT
 - Imagens do acervo público geradas via Lexica.art
 
-## 📚 Materiais
+## Materiais
 
 - prompts utilizados
 
